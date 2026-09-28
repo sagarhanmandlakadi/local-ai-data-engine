@@ -29,5 +29,4 @@ Python, Streamlit, LangChain, Ollama, Pandas, PyPDF
 
 To use a smaller model on a low-memory laptop, change `LLM_MODEL` at the top of `app.py` (for example to `llama3.2:3b`).
 
-## Limitations
-Small local models can make mistakes, so check important answers against the source document.
+
