@@ -1,5 +1,15 @@
 # AI-Powered Conversational Data Analytics Engine
 
+## 🚀 Download & Run the Application
+
+[![Download App](https://shields.io)](../../releases/latest)
+
+### 💻 Quick Start Instructions (Windows)
+1. Click the **Download** badge above to grab the `conversational_project.zip` file.
+2. Right-click the downloaded ZIP file and select **"Extract All..."**.
+3. Open the extracted folder and double-click the **`run.bat`** file (the file with the gear icon).
+4. The app will automatically open right up in your web browser!
+
 A chat app that answers plain-English questions about PDF and CSV files.
 It runs fully on your own computer with Ollama, so no API keys are needed
 and your files never leave your machine.
